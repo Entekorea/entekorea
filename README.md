@@ -4,7 +4,7 @@ Hi there 👋 Welcome to my profile.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fentekorea)](https://hits.seeyoufarm.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/entekorea)](https://www.facebook.com/entekorea) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entekorea@gmail.com)](mailto:entekorea@gmail.com)
 
-[![Entekorea's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/entekorea/github-readme-stats)
+[![Entekorea's github stats](https://github-readme-stats.vercel.app/api?username=entekorea)](https://github.com/entekorea/github-readme-stats)
 
 
 <!--
