@@ -9,7 +9,20 @@ Hi there 👋 Welcome to my profile.
 [![Entekorea's github stats](https://github-readme-stats.vercel.app/api?username=entekorea)](https://github.com/entekorea/github-readme-stats)
 
 
-- 🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+- Physical computing
+- C, Python, JavaScript, Matlab
+- Fusion 360, 123D Design
+
+👯 I’m looking to collaborate on ...
+- Administrator at AI Robotics KR (KakaoTalk OpenChat)
+- Administrator at KakaoTalk Bot Community (KakaoTalk OpenChat)
+- Administrator at JavaLab Developer Community
+
+🔭 I hope to learn ...
+- Reinforcement Learning
+- Cpp, C#, Java
+- Unity
 
 <!--
 **Entekorea/entekorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
