@@ -13,7 +13,6 @@ Hi there 👋 Welcome to my profile.
 - Physical computing
 - C, Python, JavaScript, Matlab
 - Fusion 360, 123D Design
-- HTML
 
 👯 I’m looking to collaborate on ...
 - Administrator at AI Robotics KR (KakaoTalk OpenChat)
