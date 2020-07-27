@@ -16,7 +16,6 @@ Hi there 👋 Welcome to my profile.
 
 👯 I’m looking to collaborate on ...
 - Administrator at AI Robotics KR (KakaoTalk OpenChat)
-- Administrator at KakaoTalk Bot Community (KakaoTalk OpenChat)
 - Administrator at JavaLab Developer Community
 
 🔭 I hope to learn ...
