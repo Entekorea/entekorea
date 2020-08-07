@@ -9,6 +9,9 @@ Hi there 👋 Welcome to my profile.
 [![Entekorea's github stats](https://github-readme-stats.vercel.app/api?username=entekorea)](https://github.com/entekorea/github-readme-stats)
 
 
+I am not only a robot engineer, but also a maker, video editor, KakaoTalk bot developer and illustrator. I want to try more.
+
+
 🌱 I’m currently learning ...
 - Physical computing
 - C, Python, JavaScript, Matlab
