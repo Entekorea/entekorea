@@ -24,7 +24,7 @@ I am not only a robot engineer, but also a maker, video editor, KakaoTalk bot de
 🔭 I hope to learn ...
 - Reinforcement Learning
 - Cpp, C#, Java, HTML, Spring
-- Unity
+- Unity, Blender
 - PyCharm, TenserFlow
 
 <!--
