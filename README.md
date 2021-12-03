@@ -11,28 +11,39 @@ Hi there 👋 Welcome to my profile.
 
 I am not only a robot engineer, but also a maker, video editor, KakaoTalk bot developer and illustrator. I want to try more.
 
+- 🔭 I’m currently working on ...
+- Muesli CO,. LTD. Streamload
 
 🌱 I’m currently learning ...
 - Physical computing
-- C, Python, JavaScript, Matlab
-- Fusion 360, 123D Design
+- C
+- Python
+- JavaScript
+- Matlab
+- Fusion 360
 
 👯 I’m looking to collaborate on ...
-- Administrator at AI Robotics KR (KakaoTalk OpenChat)
+- Former Administrator at AI Robotics KR
+- Former Administrator at KakaoTalk Bot Community
 - Administrator at JavaLab Developer Community
+- Administrator at Young Maker Network
 
 🔭 I hope to learn ...
 - Reinforcement Learning
-- Cpp, C#, Java, HTML, Spring
-- Unity, Blender
-- PyCharm, TenserFlow
+- C++
+- C#
+- Java
+- Spring
+- Unity
+- Blender
+- PyCharm
+- TenserFlow
 
 <!--
 **Entekorea/entekorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
