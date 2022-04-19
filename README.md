@@ -8,19 +8,17 @@ Hi there 👋 Welcome to my profile.
 
 [![Entekorea's github stats](https://github-readme-stats.vercel.app/api?username=entekorea)](https://github.com/entekorea/github-readme-stats)
 
-
-I am not only a robot engineer, but also a maker, video editor, KakaoTalk bot developer and illustrator. I want to try more.
-
 🔭 I’m currently working on ...
-- Muesli CO,. LTD. Streamload
+- Muesli CO,. LTD. Content Media Department
+- PD & FD
+- Video Director
+- Designer
+- Robot Engineer & Developer
 
 🌱 I’m currently learning ...
-- Physical computing
-- C
+- Tailwind
+- Html, CSS
 - Python
-- JavaScript
-- Matlab
-- Fusion 360
 
 👯 I’m looking to collaborate on ...
 - Former Administrator at AI Robotics KR
@@ -34,9 +32,6 @@ I am not only a robot engineer, but also a maker, video editor, KakaoTalk bot de
 - C#
 - Java
 - Spring
-- Unity
-- Blender
-- PyCharm
 - TenserFlow
 
 <!--
