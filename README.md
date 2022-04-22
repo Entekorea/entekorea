@@ -9,7 +9,6 @@ Hi there 👋 Welcome to my profile.
 ![trophy](https://github-profile-trophy.vercel.app/?username=entekorea)
 
 ![entekorea's github stats](https://github-readme-stats.vercel.app/api?username=entekorea&show_icons=true)
-[![entekorea's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=entekoreaID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/entekorea)
 
 🔭 I’m currently working on ...
 - Muesli CO,. LTD. Content Media Department
