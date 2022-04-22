@@ -1,4 +1,4 @@
-
+![trophy](https://github-profile-trophy.vercel.app/?username=entekorea)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fentekorea)](https://hits.seeyoufarm.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/entekorea)](https://www.facebook.com/entekorea) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entekorea@gmail.com)](mailto:entekorea@gmail.com)
 
 ![entekorea's github stats](https://github-readme-stats.vercel.app/api?username=entekorea&show_icons=true)
