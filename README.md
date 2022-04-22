@@ -3,6 +3,8 @@
 
 ![entekorea's github stats](https://github-readme-stats.vercel.app/api?username=entekorea&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entekorea)](https://github.com/entekorea/github-readme-stats)
+
 🔭 I’m currently working on ...
 - Muesli CO,. LTD. Content Media Department
 - PD & FD
