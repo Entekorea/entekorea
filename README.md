@@ -2,8 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fentekorea)](https://hits.seeyoufarm.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/entekorea)](https://www.facebook.com/entekorea) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entekorea@gmail.com)](mailto:entekorea@gmail.com)
 
-> 모든 일에 있어서, '절대'라는 것은 없습니다. 불가능할 것 같은 일일지라도 우선 부딛혀보고 판단합니다.
-> 
+> 모든 일에 있어서, '절대'라는 것은 없습니다. 불가능할 것 같은 일일지라도 우선 부딛혀보고 판단합니다.<br>
 > 성공하면 자신의 한계를 깨는데 성공한 것이고, 실패하면 그만큼의 경험을 축적하게 되는 것입니다.
 
 # About
