@@ -16,9 +16,10 @@
 
 
 # Learning
-- 프론트엔드 엔지니어링(Node.js, React)
-- 피지컬 엔지니어링(C, ROS, RL)
+- 프론트엔드 엔지니어링(JavaScript, Node.js, React)
+- 피지컬(하드웨어) 엔지니어링(C, ROS, RL)
 - Python
+- Java
 
 <!--
 **Entekorea/entekorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
