@@ -17,7 +17,7 @@
 
 # Learning
 - 프론트엔드 엔지니어링(JavaScript, Node.js, React)
-- 피지컬(하드웨어) 엔지니어링(C, ROS, RL)
+- 피지컬 엔지니어링(C, ROS, RL)
 - Python
 - Java
 
