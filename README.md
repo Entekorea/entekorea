@@ -6,9 +6,8 @@
 > 성공하면 자신의 한계를 깨는데 성공한 것이고, 실패하면 그만큼의 경험을 축적하게 되는 것입니다.
 
 # About
-- 주식회사 코어파이브 CCO
-- 피지컬(하드웨어) 엔지니어
-- Junior 프론트엔드 엔지니어
+- Corefive Corp. CCO
+- Robotics Hardware Engineer
 - Administrator at Young Maker Network
 - Former Administrator at AI Robotics KR
 - Former Administrator at KakaoTalk Bot Community
