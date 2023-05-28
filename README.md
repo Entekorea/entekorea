@@ -7,11 +7,12 @@
 
 # About
 - Corefive Corp. CCO
-- Robotics Hardware Engineer
-- Administrator at Young Maker Network
-- Former Administrator at AI Robotics KR
-- Former Administrator at KakaoTalk Bot Community
-- Former Administrator at JavaLab Developer Community
+- Director of Rechive(https://rechive.kr/)
+- Robotics Engineer(Multi-pedalism, Vertical Articulated)
+- Staff at Young Maker Network
+- Former Staff at AI Robotics KR
+- Former Staff at KakaoTalk Bot Community
+- Former Staff at JavaLab Developer Community
 
 
 <!--
