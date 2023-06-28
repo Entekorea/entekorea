@@ -5,10 +5,10 @@
 > 성공하면 자신의 한계를 깨는데 성공한 것이고, 실패하면 그만큼의 경험을 축적하게 되는 것입니다.
 
 # About
-- Corefive Corp. CCO
+- Corefive Corp. CCO(Chief Creative Officer)
 - Director of Rechive(https://rechive.kr/)
 - Robotics Engineer(Multi-pedalism, Vertical Articulated)
-- Staff at Young Maker Network
+- Former Staff at Young Maker Network
 - Former Staff at AI Robotics KR
 - Former Staff at KakaoTalk Bot Community
 - Former Staff at JavaLab Developer Community
