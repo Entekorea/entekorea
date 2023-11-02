@@ -7,7 +7,8 @@
 # About
 - Corefive Corp. CCO(Chief Creative Officer)
 - Director of Rechive(https://rechive.kr/)
-- Robotics Engineer(Multi-pedalism, Vertical Articulated)
+- Robotics Engineer(Multi-pedalism, Vertical Articulated, Gripper)
+- Embedded Developer
 - Former Staff at Young Maker Network
 - Former Staff at AI Robotics KR
 - Former Staff at KakaoTalk Bot Community
