@@ -1,7 +1,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fentekorea)](https://hits.seeyoufarm.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/entekorea)](https://www.facebook.com/entekorea) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:entekorea@gmail.com)](mailto:entekorea@gmail.com)
 
-# Kim Jin-woo (Enteklo) 
+# Kim Jin-woo (EnteClo) 
 ### Founder & CEO at Connecspace | Robotics Engineer | Technical PM
 
 "Building sustainable infrastructure for the Creator Economy with Robotics-level precision."
@@ -28,11 +28,11 @@
 #### **Technical Project Management**
 * **Tetra** | Head of Production Management (AI Surveillance & US Export Project)
 * **Rechive** | Head of Planning & Ops (Archiving Infrastructure Design)
-* **JDIO** | R&D Team Leader (Product Design & Manufacturing Ops)
+* **JDO** | R&D Team Leader (Product Design & Manufacturing Ops)
 * **SMU Intelligent Robotics** | Technical Content Strategy & Branding
 
 #### **Media & Creative Direction**
-* **Muzely** | Head of Media Division (Global Music Distribution & PMO)
+* **Musli** | Head of Media Division (Global Music Distribution & PMO)
 * **YouTube Fable** | Lead Editor
 * **Production 'Bad Guys'** | Lead Producer
 
@@ -43,7 +43,7 @@
 * Alumnus: **Gyeongbuk Arts High School** (Classical Composition)
 
 ---
-📫 **Contact:** [Your Email / LinkedIn / Website Link]
+📫 **Contact:** [Linkedin](https://www.linkedin.com/in/%EA%B9%80%EC%A7%84%EC%9A%B0-jinwoo-kim-5994841b3/)
 
 
 <!--
