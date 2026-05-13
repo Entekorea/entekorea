@@ -3,16 +3,49 @@
 
 > 실패에 대한 두려움이 가득하다면, 결코 성공할 수 없다.<br>
 
-# About
-- Connecspace Co., Ltd. CEO
-- Robotics Engineer(Multi-pedalism, Vertical Articulated, Gripper)
-- Embedded Developer
-- Former Director of Rechive Service
-- Former CCO, Co-Founder of Corefive Corp.
-- Former Staff at Young Maker Network
-- Former Staff at AI Robotics KR
-- Former Staff at KakaoTalk Bot Community
-- Former Staff at JavaLab Developer Community
+# Kim Jin-woo (Enteklo) 
+### Founder & CEO at Connecspace | Robotics Engineer | Technical PM
+
+"Building sustainable infrastructure for the Creator Economy with Robotics-level precision."
+
+---
+
+### 🚀 Career Focus
+- **Current:** CEO/Founder of **Connecspace** (Creator-Media Specialized Talent Platform)
+- **Past:** Serial Entrepreneur (Gatherwork, Core Five, Streamload) & Tech Operations Specialist
+
+### 🤖 Tech & Engineering
+- **Robotics:** Multi-pedalism, Vertical Articulated, Gripper Design
+- **Embedded & HW:** AI Security Monitoring Systems, Outdoor R&D, Production Management
+- **Full-stack/DevOps:** Spring Boot, MariaDB, Tailwind CSS (Building Connecspace MVP)
+
+### 📈 Experience Breakdown
+
+#### **Business & Entrepreneurship**
+* **Connecspace** | CEO / Founder (Current)
+* **Gatherwork** | CEO / Founder (Freelancer Rights & Matching Agency)
+* **Core Five** | CCO / Co-Founder (SaaS for Creators)
+* **Streamload** | CEO / Co-Founder (M&A completed / Automated Video Archiving)
+
+#### **Technical Project Management**
+* **Tetra** | Head of Production Management (AI Surveillance & US Export Project)
+* **Rechive** | Head of Planning & Ops (Archiving Infrastructure Design)
+* **JDIO** | R&D Team Leader (Product Design & Manufacturing Ops)
+* **SMU Intelligent Robotics** | Technical Content Strategy & Branding
+
+#### **Media & Creative Direction**
+* **Muzely** | Head of Media Division (Global Music Distribution & PMO)
+* **YouTube Fable** | Lead Editor
+* **Production 'Bad Guys'** | Lead Producer
+
+---
+
+### 🌐 Communities & Networks
+* Former Staff at: **AI Robotics KR**, **JavaLab**, **KakaoTalk Bot Community**, **Young Maker Network**
+* Alumnus: **Gyeongbuk Arts High School** (Classical Composition)
+
+---
+📫 **Contact:** [Your Email / LinkedIn / Website Link]
 
 
 <!--
